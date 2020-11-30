@@ -16,3 +16,6 @@
 - 服装は上記の「季節の基準」から判断
 - 日焼けは「夏～秋」から判断
 - 熱中症は「夏」を判断
+
+[気温の判定]
+http://www.data.jma.go.jp/obd/stats/etrn/view/monthly_s3.php?%20prec_no=44&block_no=47662
